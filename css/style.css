@@ -724,6 +724,10 @@ body {
   /* margin-top: 40px; */
 }
 
+.modal-input {
+  margin-bottom: 10px;
+}
+
 .modal-input-text {
   font-style: normal;
   font-weight: 400;
@@ -732,7 +736,7 @@ body {
   letter-spacing: 0.01em;
   color: var(--main-text-color);
   margin-bottom: 5px;
-  padding-top: 10px;
+  /* padding-top: 10px; */
   display: block;
 }
 
@@ -817,7 +821,7 @@ body {
 
 .modal-input-field:focus + .modal-input-icon {
   border-color: #2196f3;
-  fill: currentColor;
+  fill: #2196f3;
 }
 
 .modal-close {
