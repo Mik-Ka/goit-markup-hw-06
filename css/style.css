@@ -840,9 +840,10 @@ body {
   cursor: pointer;
 }
 
-.modal-close:hover + .modal-close-icon {
+.modal-close:hover .modal-close-icon {
   fill: #2196f3;
   cursor: pointer;
+  /* border-color: var(--accent-color); */
 }
 
 .modal-checkbox {

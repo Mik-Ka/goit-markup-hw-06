@@ -1,3 +1,4 @@
 {
-  "editor.minimap.maxColumn": 75
+  "editor.minimap.maxColumn": 75,
+  "liveServer.settings.port": 5501
 }
